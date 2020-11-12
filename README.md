@@ -12,4 +12,4 @@ printf("晚桑好!我亲爱的老师!\n");
 
 
 
-我的错误注意：void main在void work的下面。
+我的错误注意：void main在void work的下面。。。
