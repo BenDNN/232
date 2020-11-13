@@ -1,0 +1,26 @@
+内容（1）:--//无穷输出（装x用）
+#include<stdio.h>
+
+	void main()
+	{
+	
+		while(1){
+
+	printf("小廖既是憨批也是SB!—_—");
+		}
+	}
+  
+内容（2）：--  //月份的固定---
+  #include<stdio.h>
+
+void main(){
+	int i;
+	int arr[]={31,28,31,30,31,30,31,31,30,31,30,31};
+	for(i=0;i<=11;i++){
+	printf("%d\n",arr[i]);
+	}
+}
+  
+  
+ 
+  
