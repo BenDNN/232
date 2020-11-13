@@ -1,0 +1,21 @@
+#include<stdio.h>
+
+void zao(){
+printf("早上好呀!慧慧小朋友!");
+}
+
+void wu(){
+printf("中午好!慧慧小可耐!");
+}
+
+void wan(){
+printf("Good evening!慧慧小宝贝!");
+}
+
+	void main(){
+	zao();
+	printf("\n");
+    wu();
+
+	wan();
+	}
