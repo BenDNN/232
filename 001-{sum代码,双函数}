@@ -8,13 +8,13 @@
        printf("%d",sum());}
 
 ///内容(2)：
-＃包括< stdio.h中>
+#include<stdio.h>
 
-	无效的 工作（）{
+	void work（）{
 printf（“晚桑好！我亲爱的老师！\ n ”）;
 }
 		void  main（）{
-	工作（）;
+	work（）;
 }
 我的错误注意：void main在void work的下面。
 
