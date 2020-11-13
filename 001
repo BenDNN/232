@@ -1,8 +1,0 @@
-授课内容：
-#include<studio.h>
-
-    int sum(){
-     return 2020;}
- 
-      void main(){
-       printf("%d",sum());}
