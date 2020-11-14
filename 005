@@ -13,9 +13,14 @@ printf("Good evening!慧慧小宝贝!");
 }
 
 	void main(){
+
 	zao();
 	printf("\n");
-    wu();
 
+    wu();
+	printf("\n");
+	
 	wan();
-	}
+	printf("\n");
+
+	}}
