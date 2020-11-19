@@ -1,1 +1,11 @@
+内容：
+#include<stdio.h>
+void main(){
 
+	int age;
+	int money;
+
+	scanf("%d",&age);
+	scanf("%d",&money);
+	printf("年龄%d\n工资%d\n",age,money);
+}
