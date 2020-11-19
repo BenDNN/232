@@ -1,0 +1,23 @@
+内容1：
+#include<stdio.h>
+
+void main(){
+
+//第一种小数（浮点数）的输出
+//float pai=3.1415926535;
+//printf("%f",pai);
+
+//第二种，双精度浮点数double
+double pai=3.1415926535;
+printf("%lf\n",pai);
+
+}
+
+内容2：
+#include<stdio.h>
+void main(){
+	double eat[3]={1.2,3.4,5.6};
+	printf("%.1lf\n",eat[0]);
+	printf("%.1lf\n",eat[1]);
+	printf("%.1lf\n",eat[2]);
+}
