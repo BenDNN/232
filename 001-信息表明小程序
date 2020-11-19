@@ -1,4 +1,4 @@
-内容：
+内容1：
 #include<stdio.h>
 void main(){
 
@@ -8,4 +8,20 @@ void main(){
 	scanf("%d",&age);
 	scanf("%d",&money);
 	printf("年龄%d\n工资%d\n",age,money);
+}
+
+
+
+（课后练习）内容2：
+#include<stdio.h>
+void main(){
+
+	int year;
+	int money;
+	int day;
+
+	scanf("%d",&year);
+	scanf("%d",&money);
+	scanf("%d",&day);
+	printf("%d年\n %d月\n  %d日\n",year,money,day);
 }
