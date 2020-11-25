@@ -44,18 +44,8 @@ void main(){
 		printf("哈尔滨工业大学\n");
 		}
 
-		else if(n==11){
-		printf("西安交通大学\n");
-		}
-
-		else if(n==12){
-		printf("同济大学\n");
-		}
-
-
-	
 		else{
-		printf("输入有误,请重新输入\n");
+		printf("老铁你的排名太落后了,请输入1-10\n");
 		}
 
 }
