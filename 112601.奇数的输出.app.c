@@ -1,11 +1,8 @@
 #include<stdio.h>
+
 void main(){
-	int i=1;
-	while(i<=1024){
-		if(i%2==1){
-		printf("%d\n",i);
-		}
-		i++;
+	int n;
+	for(n=1;n<=1024;n+=2){
+	printf("%d\n",n);
 	}
-	system("pause");
 }
