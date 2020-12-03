@@ -13,4 +13,21 @@ void main(){
 		printf("%d\n%d\n%d\n",a,c,b);
 		}
 }
+	else if(b<a&&b<c){
+		if(a<c){
+		printf("%d\n%d\n%d\n",b,a,c);
+		}
+		else{
+		printf("%d\n%d\n%d\n",b,c,a);
+		}
+	}
+		else if(c<a&&c<b){
+		if(a<b){
+		printf("%d\n%d\n%d\n",c,a,b);
+		}
+		else{
+		printf("%d\n%d\n%d\n",c,b,a);
+		}
+	}
+	
 }
