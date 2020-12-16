@@ -1,5 +1,5 @@
 内容(1)：
-#include<studio.h>
+#include<stdio.h>
 
     int sum(){
      return 2020;}
